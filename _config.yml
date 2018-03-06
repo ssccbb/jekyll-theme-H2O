@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: 'sung x Lab'
 description: '一朵奇葩花。'
-keyword: '周天旺，Android，前段，工程师，程序员'
+keyword: '周天旺，Android，工程师，程序员'
 url: 'http://zhouqipa.com' # your host
 
 # if you don't need baseurl, you should leave this value blank.
@@ -63,11 +63,9 @@ postPatterns: 'circuitBoard'
 
 # SNS settings 配置社交网站url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  email: 'mailto:ray.eldath@aol.com'
-  weibo: '//weibo.com/lovecolcol'
-  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
-  instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/kaeyleo'
+  email: 'sung723@outlook.com'
+  weibo: '//weibo.com/u/1791185144'
+  github: '//github.com/ssccbb'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
