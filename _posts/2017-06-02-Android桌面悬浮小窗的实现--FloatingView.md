@@ -11,7 +11,7 @@ tags: Android开发 悬浮窗 FloatingView
 
 做直播也一段时间了，也参考看过很多的不同的直播软件，有大公司的也有小公司的。千篇一律，唯独发现斗鱼熊猫有一个很细心的功能，视频悬浮窗口。在退出当前的直播间的时候会生成一个小的悬浮窗口继续播放。类似这种
 
-![20170602185811484](/Users/sung/ssccbb.github.io/assets/cover/20170602185811484.png)
+![20170602185811484](https://github.com/ssccbb/ssccbb.github.io/blob/master/assets/cover/20170602185811484.png?raw=true)
 
 
 
@@ -214,4 +214,4 @@ private void initFloatingView() {
 
 效果演示
 
-![20170602194053178](/Users/sung/ssccbb.github.io/assets/cover/20170602194053178.gif)
+![20170602194053178](https://github.com/ssccbb/ssccbb.github.io/blob/master/assets/cover/20170602194053178.gif?raw=true)

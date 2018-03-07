@@ -7,8 +7,6 @@ cover: ''
 tags: Android开发 CalendarView Recyclerview
 ---
 
-csdn：<http://blog.csdn.net/sung_ll>
-
 ### 废话
 
 一直想着自己搭一个日常记事和带日历打卡类的app，懒癌！这几天项目不是很忙之后仿ios的habitify先做了一个日历带打卡的小功能。先赌为快
@@ -399,7 +397,7 @@ public class DateAdapter extends RecyclerView.Adapter<DateAdapter.DateViewHolder
 
 bindviewholder中主要做初始化ui的操作，控制首月标志/当日标志/月份内区别/选中区别的不同显示。选中的状态操作在方法setsellectstatus中，依次判断 选中日期／上个日期／下个日期 的选中状态，逻辑如下
 
-![20170721153825406](/Users/sung/ssccbb.github.io/assets/cover/20170721153825406.jpeg)
+![20170721153825406](https://github.com/ssccbb/ssccbb.github.io/blob/master/assets/cover/20170721153825406.jpeg?raw=true)
 
 状态保存未实现，只需讲每页的dateobject存入db，用时从db中读而不选择重新生成的方式即可。基本功能逻辑就这些
 
