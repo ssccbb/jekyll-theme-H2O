@@ -7,8 +7,6 @@ cover: ''
 tags: Android开发 CalendarView Recyclerview
 ---
 
-### 废话
-
 一直想着自己搭一个日常记事和带日历打卡类的app，懒癌！这几天项目不是很忙之后仿ios的habitify先做了一个日历带打卡的小功能。先赌为快
 
 ![calendar](https://github.com/ssccbb/ssccbb.github.io/blob/master/assets/cover/calendar.gif?raw=true)

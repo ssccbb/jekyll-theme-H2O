@@ -7,8 +7,6 @@ cover: ''
 tags: Android开发 Surfaceview
 ---
 
-### 前言
-
 app需要增加类似美拍的段视频拍摄功能，在实际的开发中碰到surface view预览的变形。参考了网上的资料，提出了解决办法
 
 
