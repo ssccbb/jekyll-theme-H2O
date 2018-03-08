@@ -40,7 +40,7 @@ comments:
 
 # Reward 赞赏功能 by Ray-Eldath
 reward:
-  enable: true
+  enable: false
   reward_comment: '真诚赞赏 手有余香'
   wechatpay: 'http://ray-eldath.image.alimmdn.com/basic/wechatpay.jpg'
   alipay: 'http://ray-eldath.image.alimmdn.com/basic/alipay.jpg'
@@ -51,9 +51,9 @@ b2t: true
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
 
-# Share
+# Share ('douban', 'twitter')
 social-share: true
-social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
+social-share-items: ['wechat', 'weibo']
 
 # theme color 主题皮肤
 theme-color: 'default'  # pink or default
