@@ -374,7 +374,7 @@ Provider
 
 该类是一个静态常量类，为避免存数据库的时候混乱，在该类中事先定义好存入的key
 
-```
+```java
 // 这个是每个Provider的标识，在Manifest中使用
 public static final String AUTHORITY = "com.sung.provider.calendarview";
 
@@ -387,10 +387,10 @@ public static final class DatesColumns implements BaseColumns{
 	//通用uri
     public static final Uri CONTENT_URI = Uri.parse("content://"+AUTHORITY+"/dates");
 
-	public static final String TABLE_NAME = "dates";
-	public static final String DEFAULT_SORT_ORDER = "position desc";
+    public static final String TABLE_NAME = "dates";
+    public static final String DEFAULT_SORT_ORDER = "position desc";
 
-	public static final String POSITION = "position";
+    public static final String POSITION = "position";
     public static final String PAGER_INDEX = "pager_index";
     public static final String YEAR = "year";
     public static final String MONTH = "month";
