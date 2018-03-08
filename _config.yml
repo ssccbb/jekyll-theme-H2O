@@ -91,3 +91,6 @@ permalink: /:year/:month/:day/:title.html
 
 # Plugins
 plugins: [jekyll-paginate]
+
+# 97beb07da20ded83d21405d99b1d934a
+baidu-analysis: 97beb07da20ded83d21405d99b1d934a
